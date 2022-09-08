@@ -1,0 +1,7 @@
+{
+  "name": "abby-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
